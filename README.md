@@ -1,2 +1,6 @@
 # hello-world
-1st rep
+
+Hi Humans!
+
+Here starts a brand new journey.
+
