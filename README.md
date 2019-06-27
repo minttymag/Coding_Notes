@@ -1,6 +1,6 @@
 # SQL in 10 MINS - 4th Edition Notes(from 2017)
 
-L2 - Retrieving Data
+# L2 - Retrieving Data
 
 1. DISTINCT can't be parital.
 2. LIMIT & OFFSET: LIMIT secifies the number of rows to return. LIMIT with an OFFSET specifies where to start from.
